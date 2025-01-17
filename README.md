@@ -1,4 +1,5 @@
 # Capstone project at Innopolis University
+Some study project from July 2024
 
 This is a repo of the [Capstone project at the Innopolis University](https://capstone.innopolis.university/) - <https://capstone.innopolis.university/>
 
